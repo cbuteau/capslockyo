@@ -12,3 +12,10 @@ It says...
 Random phrases
 
 You have to turn caps lock off and on yourself.
+
+## Ideas
+
+Animate the switch (it is a logo)
+https://medium.com/hackernoon/using-pixijs-to-generate-or-animate-a-chrome-extension-icon-cad2d5ff40c9
+
+
