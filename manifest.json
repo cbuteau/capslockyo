@@ -1,6 +1,8 @@
 {
-  "name": "Fresh Chrome Extension",
-  "description": "Fully functional, useful bare minimum Google Chrome extension boilerplate [Manifest V3].",
+  "name": "CAPS LOCK YO",
+  "old_description": "Fully functional, useful bare minimum Google Chrome extension boilerplate [Manifest V3].",
+  "old_homepage_url": "https://github.com/llagerlof/fresh-chrome-extension",
+  "description": "When CAPS LOCK is on the USER knows by galcing at icon.",
   "homepage_url": "https://github.com/llagerlof/fresh-chrome-extension",
   "version": "2.0.0",
   "manifest_version": 3,
@@ -26,7 +28,7 @@
     }
   ],
   "background": {
-    "service_worker": "src/background.js"
+    "service_worker": "background.js"
   },
   "permissions": [
     "tabs",
